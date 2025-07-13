@@ -50,9 +50,7 @@ Used sample Superstore data (public domain) typically available on Kaggle or Tab
 
 ## 📷 Dashboard Preview
 
-![Dashboard Screenshot]"C:\Users\mdimd\Pictures\Screenshots\Screenshot 2025-07-12 201302.png"
-
----
+![Dashboard Screenshot](./Screenshot%202025-07-12%20201302.png)
 
 ## 🎯 Key Takeaways
 - 📉 Identify underperforming sub-categories with low profit margins.
